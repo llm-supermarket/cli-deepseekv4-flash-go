@@ -1,11 +1,11 @@
 {
   "homepage": "https://github.com/llm-supermarket/cli-deepseekv4-flash-go",
   "description": "A CLI tool for encrypting and decrypting files using rclone-compatible encryption (NaCl SecretBox + AES-EME)",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/llm-supermarket/cli-deepseekv4-flash-go/releases/download/v0.0.0/cli-deepseekv4-flash-go-windows-amd64.exe",
-      "hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "url": "https://github.com/llm-supermarket/cli-deepseekv4-flash-go/releases/download/v0.1.0/cli-deepseekv4-flash-go-windows-amd64.exe",
+      "hash": "e6d1f29b2e988f4b08e417b5c3a9bba46735307ef2cc49d60bdbb24d9b134378",
       "bin": [
         [
           "cli-deepseekv4-flash-go-windows-amd64.exe",
